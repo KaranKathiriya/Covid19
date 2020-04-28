@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "292525459792",
+    "firebase_url": "https://indiacovid19-5d098.firebaseio.com",
+    "project_id": "indiacovid19-5d098",
+    "storage_bucket": "indiacovid19-5d098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292525459792:android:f0cdffebd3f8c5475e4455",
+        "android_client_info": {
+          "package_name": "Covid19.info.Aarogyasetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292525459792-h041nk7k0b719rdtbijthd552bt89mni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXMMiNlnDJGetv51_46wjQYwQSxA3bWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292525459792-h041nk7k0b719rdtbijthd552bt89mni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292525459792:android:ff9b54e6654f62665e4455",
+        "android_client_info": {
+          "package_name": "covid19.info.aarogyasetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292525459792-h041nk7k0b719rdtbijthd552bt89mni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXMMiNlnDJGetv51_46wjQYwQSxA3bWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292525459792-h041nk7k0b719rdtbijthd552bt89mni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
